@@ -83,4 +83,4 @@ The company needed to:
 
 ---
 
-> ⚡ *This is a portfolio project for educational purposes. Business recommendations would require further context and stakeholder input.*
+> PS: *This is a portfolio project for educational purposes. Business recommendations would require further context and stakeholder input.*
